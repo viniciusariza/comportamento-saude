@@ -5,7 +5,8 @@
 
 
 ### Sobre
-<a href="https://github.com/viniciusariza/comportamento-saude/blob/main/artigo/artigo.pdf">Artigo</a> e <a href="https://github.com/viniciusariza/comportamento-saude/blob/main/modelo"> código do modelo.</a>: Arquivos bloqueados, aguardando aprovação.
+<a href="https://github.com/viniciusariza/comportamento-saude/blob/main/artigo/artigo.pdf">Artigo</a> e <a href="https://github.com/viniciusariza/comportamento-saude/blob/main/modelo"> código do modelo</a>: Arquivos bloqueados, aguardando aprovação.
+
 O modelo desenvolvido tem como objetivo aplicar um algoritmo classificador para identificar o comportamento da população na busca por serviços de saúde após o início da pandemia do novo coronavírus.
 
 ### Tecnologia
