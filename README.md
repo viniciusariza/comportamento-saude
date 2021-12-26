@@ -24,11 +24,6 @@ A base de dados utilizada foi a Premise General Population Covid-19 Health Servi
 * Over-sampling
 
 
-<div align="center" height="200px">
-  <img src="/img/pre-processamento.jpg">
-</div>
-
-
 ### Métricas de avaliação
 * Accuracy
 * Precision
@@ -58,16 +53,11 @@ A base de dados utilizada foi a Premise General Population Covid-19 Health Servi
 * Consolidação do modelo final
 
 
-<div align="center" >
-  <img src="/img/modelo.jpg">
-</div>
-
-
 ### Conclusões
 O modelo final apresentou acurácia de 88% com dados desconhecidos. Quanto à sensibilidade e a precisão, o modelo alcançou 0,89 em média, mostrando ser eficiente tanto na detecção de pessoas que buscaram cuidados médicos, quanto aqueles que não buscaram. A média harmônica entre a sensibilidade e a precisão foi de 0,88 para as duas classes. Com relação aos atributos mais importantes têm-se que se segue.
 
 
-<div align="center" height="200px">
+<div align="center" height="150px">
   <img src="/img/importancias.jpg">
 </div>
 
