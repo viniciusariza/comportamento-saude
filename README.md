@@ -5,8 +5,6 @@
 
 
 ### Sobre
-<a href="https://github.com/viniciusariza/comportamento-saude/blob/main/artigo/Artigo.pdf">Artigo</a> e <a href="https://github.com/viniciusariza/comportamento-saude/blob/main/003%20-%20modelo.ipynb"> código do modelo</a>: Arquivos bloqueados, aguardando aprovação.
-
 O modelo desenvolvido tem como objetivo aplicar um algoritmo classificador para identificar o comportamento da população na busca por serviços de saúde após o início da pandemia do novo coronavírus.
 
 ### Tecnologia
