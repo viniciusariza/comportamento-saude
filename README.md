@@ -52,12 +52,5 @@ A base de dados utilizada foi a Premise General Population Covid-19 Health Servi
 
 
 ### Conclusões
-O modelo final apresentou acurácia de 88% com dados desconhecidos. Quanto à sensibilidade e a precisão, o modelo alcançou 0,89 em média, mostrando ser eficiente tanto na detecção de pessoas que buscaram cuidados médicos, quanto aqueles que não buscaram. A média harmônica entre a sensibilidade e a precisão foi de 0,88 para as duas classes. Com relação aos atributos mais importantes têm-se que se segue.
-
-
-<div align="center" height="150px">
-  <img src="/img/importancias.jpg">
-</div>
-
-
+O modelo final apresentou acurácia de 88% com dados desconhecidos. Quanto à sensibilidade e a precisão, o modelo alcançou 0,89 em média, mostrando ser eficiente tanto na detecção de pessoas que buscaram cuidados médicos, quanto aqueles que não buscaram. A média harmônica entre a sensibilidade e a precisão foi de 0,88 para as duas classes.
 Verificou-se que atributos sociodemográficos foram importantes na identificação da classe, sendo os mais influentes a quantidade de moradores em uma residência, a etnia, a religião e a situações empregatícia e financeira, cuja explicação pode ser consultada no <a href="https://github.com/viniciusariza/comportamento-saude/blob/main/artigo/Artigo.pdf"> artigo completo.</a>
